@@ -27,9 +27,9 @@ void loop(void)
 	delay(100);
 	
 	
-	digitalWrite(16, HIGH);
+	digitalWrite(12, HIGH);
 	delay(300);
-	digitalWrite(16, LOW);
+	digitalWrite(12, LOW);
 	delay(100);
 }
  
