@@ -23,13 +23,13 @@ void loop(void)
 	
 	digitalWrite(20, HIGH);
 	delay(300);
-	digitalWrite(16, LOW);
+	digitalWrite(20, LOW);
 	delay(100);
 	
 	
-	digitalWrite(12, HIGH);
+	digitalWrite(16, HIGH);
 	delay(300);
-	digitalWrite(21, LOW);
+	digitalWrite(16, LOW);
 	delay(100);
 }
  
